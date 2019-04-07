@@ -17,7 +17,7 @@ To properly set up this repository, you must use git clone --recursive.
 Alternatively, use git submodule update inside the repository after cloning.
 ```sh
 cd ~/build
-git clone --recursive https://github.com/jcadduono/nethunter-installer-tools.git
+git clone --recursive https://github.com/re4son/nethunter-installer-tools.git
 ```
 
 Use ./android through source, ex.  
